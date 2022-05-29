@@ -1,0 +1,45 @@
+
+.barContainer {
+    padding-left: 10px;
+}
+
+a {
+    color: white;
+}
+
+.toolbar {
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    background-color: blueviolet;
+    margin: 10px 20px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    border: 2px solid black;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 10px;
+}
+
+.total-price {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.cartTotalPrice {
+    margin: 10px 20px;
+}
